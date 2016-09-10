@@ -3,6 +3,7 @@ body {
   border-style: solid;
   border-width: 1px;
   border-color: DarkSlateGray;
+  margin: 20px;
 }
 
 h1 {

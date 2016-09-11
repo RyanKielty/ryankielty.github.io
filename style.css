@@ -4,7 +4,10 @@ body {
   border-width: 5px;
   border-color: Black;
   text-align: center;
-  padding: 110px;
+  padding-top: 60px;
+  padding-right: 110px;
+  padding-bottom:50px;
+  padding-left: 110px;
   background-color: khaki;
 }
 

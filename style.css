@@ -1,16 +1,16 @@
 body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   border-style: solid;
-  border-width: 1px;
+  border-width: 5px;
   border-color: Black;
   text-align: center;
   padding: 20px;
   background-color: khaki;
-  
 }
 
 pre {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 12pt;
 }
 
 h4 {

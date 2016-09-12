@@ -22,9 +22,7 @@ p {
 }
 
 h3 {
-  border: ridge;
-  border-color: black;
-  border-width: 500;
+  text-decoration: underline;
 }
 
 h4 {

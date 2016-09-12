@@ -21,13 +21,17 @@ p {
   font-size: 12pt;
 }
 
+h3 {
+  border: ridge;
+  border-color: black;
+}
+
 h4 {
   text-align: left;
 }
 
 h5 {
   font-size: 12pt;
-  border: ridge;
 }
 
 ul {

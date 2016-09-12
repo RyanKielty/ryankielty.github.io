@@ -21,6 +21,12 @@ p {
   font-size: 12pt;
 }
 
+a {
+  text: normal
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 12pt;
+}
+
 h4 {
   text-align: left;
 }

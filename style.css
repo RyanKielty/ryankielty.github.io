@@ -21,6 +21,12 @@ p {
   font-size: 12pt;
 }
 
+a {
+  background-color: #0077B5;
+  width: 180;
+  height: 35;
+}
+
 h3 {
   border: ridge;
   border-color: black;

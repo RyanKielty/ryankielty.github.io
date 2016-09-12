@@ -1,1 +1,1 @@
-# ryankielty.github.io/resume
+# ryankielty.github.io
